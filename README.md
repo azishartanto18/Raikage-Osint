@@ -11,6 +11,6 @@ pip install phonenumbers
 
 git clone https://github.com/rohmadhidayah/Raikage.git
 
-cd Raikage
+cd Raikage-Osint
 
-python pn.py
+python osint.py
